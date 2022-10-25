@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(107, 4, 4);
+}
+
+
+.cardMascota{
+    width:500px;
+}
+
+.fakeAncla{
+    text-decoration: underline;
+    color: #fd0d0d;
+}
+
+.loginBar{
+    background-color: #ffffff;
+    padding: 20px;
+    margin-bottom: 20px;
+}
